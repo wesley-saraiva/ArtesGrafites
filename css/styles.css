@@ -65,7 +65,7 @@ a, i {
 /*MAIN IMAGE*/
 .main-image{
     height: 400px;
-    background-image: url('../img/goku.jpg.crdownload');
+    background-image: url('../img/goku.jpg');
     margin-bottom: 30px;
     position: relative;
 }
